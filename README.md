@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharushika Balasooriya</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
 - 🌱 I’m currently learning **PHP , Python**>
 
