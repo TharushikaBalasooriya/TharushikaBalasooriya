@@ -3,7 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
 - 🌱 I’m currently learning **PHP , Python**>
 
-- 💬 Ask me about **HTML, CSS, wordpress**
+- 💬 Ask me about **Cloud technologies - AWS basic level
+Shell scripting using basic python
+Web technologies - HTML, CSS and JS
+Basic understanding of configuration management tool
+Docker 
+Basic understanding of container orchestration tool
+Kubernetes **
 
 - 📫 How to reach me **tharushikab99@gmail.com**
 
